@@ -6,3 +6,5 @@ This weather app will show the weather information that it will get from the API
 When the user clicks on the temperature value, that will convert it from Celsius to Fahrenheit and the other way around.
 
 The API provider is http://www.OpenWeatherMap.org
+
+For more take a look at wiki...
